@@ -1,0 +1,25 @@
+{
+  "name": "pass-proxy",
+  "version": "0.0.0",
+  "description": "Simple pass proxy tool instead of weight nginx startup. Edit",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lellansin/node-pass-proxy.git"
+  },
+  "keywords": [
+    "pass_proxy"
+  ],
+  "author": "lellansin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lellansin/node-pass-proxy/issues"
+  },
+  "homepage": "https://github.com/Lellansin/node-pass-proxy#readme",
+  "dependencies": {
+    "http-proxy": "^1.16.2"
+  }
+}
