@@ -4,7 +4,8 @@
   "description": "Simple pass proxy tool instead of weight nginx startup. Edit",
   "main": "./lib",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo \"Input sudo password\" && sudo node ."
   },
   "repository": {
     "type": "git",
